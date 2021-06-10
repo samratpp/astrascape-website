@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[843],{9052:function(e,t,n){"use strict";n.r(t),n.d(t,{default:function(){return u}});n(7294);var r="undefined"!=typeof window;function u(){return r&&(window.location="/#caseStudies"),null}}}]);
+//# sourceMappingURL=component---src-pages-case-studies-js-8db0073a596fa3b1b0e5.js.map
